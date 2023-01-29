@@ -13,7 +13,7 @@
 Hi! 👋 I'm **Dariel Gaizta**, an undergraduate student of [Information System and Technology](https://www.itb.ac.id/undergraduate-program-in-information-system-and-technology). I have a huge interest in tech-related fields. My hobbies are doing some fun projects and hanging out with my friends.
 
 - Based in **ID** :indonesia: &#x1f1ee;&#x1f1e9;
-- Preferred fields **Backend Developer, Software Engineer, Cloud or Infrastructure Engineer**
+- Would love to explore more as a **Backend Developer, Software Engineer, Cloud or Infrastructure Engineer**
 
 <p align="center">
 	<img height="205px" src="https://github-readme-stats.vercel.app/api?username=darielgaizta&theme=dracula&hide_border=true&show_icons=true&count_private=true">
